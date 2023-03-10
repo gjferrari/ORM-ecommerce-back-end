@@ -6,14 +6,11 @@
 
 This program is a back end for an e-commerce site created using mysql, sequelize and Express.Js API.
 
-NOTE: THIS IN NOT A FINISHED PRODUCT
-
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -55,13 +52,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 This application is covered by the MIT license.
 
-## Contributing
-
-None
-
 ## Tests
 
-This program was tested using Insomnia: will provide video/animation of usage in second draft
+This program was tested using Insomnia: https://drive.google.com/file/d/17wUkVMtPxib8XarJEvrdmHDo9_ptc3eS/view
 
 ## Questions
 
